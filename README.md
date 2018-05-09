@@ -7,3 +7,4 @@ Pressing 'Button A' while booting the console sets the record to $5000 :-)
 ![Screenshots](https://github.com/talgorn/Kitco/master/pix/pix.png)
 
 
+
