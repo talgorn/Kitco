@@ -4,6 +4,6 @@ A game for the Kitco Console (https://kitco.fr/) inspired from the famous Lunar 
 
 Pressing 'Button A' while booting the console sets the record to $5000 :-)
 
-![alt text](https://github.com/talgorn/Kitco.git/master/pix/pix.png)
+![Screenshots](https://github.com/talgorn/Kitco/master/pix/pix.png)
 
 
